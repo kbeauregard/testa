@@ -1,0 +1,11 @@
+docs_list_title: Big List of Booty
+docs:
+
+- title: Coins
+  url: coins.html
+
+- title: Misc
+  url: misc.html
+
+- title: Gold
+  url: gold.html
